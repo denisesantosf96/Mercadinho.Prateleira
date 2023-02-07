@@ -1,0 +1,14 @@
+D:\Programação\Projetos\Mercadinho.Prateleira\src\Mercadinho.Prateleira.Domain\bin\Debug\net7.0\Mercadinho.Prateleira.Domain.deps.json
+D:\Programação\Projetos\Mercadinho.Prateleira\src\Mercadinho.Prateleira.Domain\bin\Debug\net7.0\Mercadinho.Prateleira.Domain.runtimeconfig.json
+D:\Programação\Projetos\Mercadinho.Prateleira\src\Mercadinho.Prateleira.Domain\bin\Debug\net7.0\Mercadinho.Prateleira.Domain.dll
+D:\Programação\Projetos\Mercadinho.Prateleira\src\Mercadinho.Prateleira.Domain\bin\Debug\net7.0\Mercadinho.Prateleira.Domain.pdb
+D:\Programação\Projetos\Mercadinho.Prateleira\src\Mercadinho.Prateleira.Domain\obj\Debug\net7.0\Mercadinho.Prateleira.Domain.csproj.AssemblyReference.cache
+D:\Programação\Projetos\Mercadinho.Prateleira\src\Mercadinho.Prateleira.Domain\obj\Debug\net7.0\Mercadinho.Prateleira.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos\Mercadinho.Prateleira\src\Mercadinho.Prateleira.Domain\obj\Debug\net7.0\Mercadinho.Prateleira.Domain.AssemblyInfoInputs.cache
+D:\Programação\Projetos\Mercadinho.Prateleira\src\Mercadinho.Prateleira.Domain\obj\Debug\net7.0\Mercadinho.Prateleira.Domain.AssemblyInfo.cs
+D:\Programação\Projetos\Mercadinho.Prateleira\src\Mercadinho.Prateleira.Domain\obj\Debug\net7.0\Mercadinho.Prateleira.Domain.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos\Mercadinho.Prateleira\src\Mercadinho.Prateleira.Domain\obj\Debug\net7.0\Mercadinho.Prateleira.Domain.dll
+D:\Programação\Projetos\Mercadinho.Prateleira\src\Mercadinho.Prateleira.Domain\obj\Debug\net7.0\refint\Mercadinho.Prateleira.Domain.dll
+D:\Programação\Projetos\Mercadinho.Prateleira\src\Mercadinho.Prateleira.Domain\obj\Debug\net7.0\Mercadinho.Prateleira.Domain.pdb
+D:\Programação\Projetos\Mercadinho.Prateleira\src\Mercadinho.Prateleira.Domain\obj\Debug\net7.0\Mercadinho.Prateleira.Domain.genruntimeconfig.cache
+D:\Programação\Projetos\Mercadinho.Prateleira\src\Mercadinho.Prateleira.Domain\obj\Debug\net7.0\ref\Mercadinho.Prateleira.Domain.dll
